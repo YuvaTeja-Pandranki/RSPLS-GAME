@@ -1,7 +1,3 @@
-"""
-Implementing RPSLS for Practice Project
-"""
-
 def name_to_number(name):
     """
     Take string name as input (rock-Spock-paper-lizard-scissors)
